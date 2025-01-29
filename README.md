@@ -55,17 +55,3 @@ Flashy is a simple yet effective flashcard-based language learning application b
 - Click the ✅ button if you know the word (removes it from the list).
 - Click the ❌ button if you don’t know the word (keeps it for future practice).
 
-## Screenshots
-![Flashy Screenshot](images/screenshot.png)
-
-## Future Enhancements
-- Add more language support.
-- Include audio pronunciation.
-- Implement a scoring system.
-
-## License
-This project is open-source and available under the MIT License.
-
-## Author
-Developed by [Your Name]
-
